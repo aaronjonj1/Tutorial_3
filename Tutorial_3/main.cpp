@@ -1,4 +1,6 @@
 ﻿// main.cpp
+// Aaron Jones
+//Link https://docs.microsoft.com/en-us/windows/uwp/cpp-and-winrt-apis/get-started?view=msvc-160
 #include "pch.h"
 
 using namespace winrt;
